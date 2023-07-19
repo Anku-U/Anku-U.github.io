@@ -82,3 +82,54 @@
     /* justify-content: space-around; */
     margin-bottom: 5px;
 }
+
+.image_ankita {
+    height: 665px;
+    width: 450px;
+}
+
+.main_page {
+    display: flex;
+    flex-direction: row;
+}
+
+.right_section {
+    /* display: flex; */
+    align-items: center;
+    /* text-align: center; */
+    padding-left: 150px;
+    padding-top: 150px;
+    .hello {
+        font-size: 20px;
+        font-style: italic;
+    }
+    .intro {
+        font-size: 50px;
+        font-weight: bold;
+    }
+    .specific {
+        color: #F6A316
+    }
+    .prof {
+        margin-top: -25px;
+    }
+    .btn {
+        margin-left: 100px;
+        justify-content: space-around;
+        .download {
+            margin-left: 20px;
+            height: 40px;
+            width: 150px;
+            background-color: #6F8963;
+            color: white;
+            border: none;
+        }
+        .hire {
+            border: none;
+            font-weight: bold;
+            color: #6F8963;
+            background: none;
+            text-decoration: none;
+        }
+    }
+}

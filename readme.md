@@ -30,3 +30,20 @@ sequence
 1. git add .
 2. git commit -m 'header created and updated'
 3. git push origin branch_name
+
+
+
+
+spna: text ya paragraphes
+input: text, button, textarea, radio button, checkbox,
+<input type='radio">
+
+
+px
+1 em = 16px
+1rem = 16px
+vh
+
+tabel / flex
+table  row-> 2 data
+flex direction -> row
