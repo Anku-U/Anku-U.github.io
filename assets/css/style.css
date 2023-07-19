@@ -64,3 +64,21 @@
         float: none;
     }
 }
+
+.social_icons {
+    height: 25px;
+    width: 25px;
+    justify-content: space-around;
+    margin-left: 5px;
+}
+
+.social {
+    float: right;
+}
+
+.main_header {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-around; */
+    margin-bottom: 5px;
+}
